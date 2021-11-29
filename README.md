@@ -1,4 +1,10 @@
-### Hi there 👋
+### Kia ora 🤙
+
+I'm a NZ-based dev, with an insatiable passion for technology.
+
+Currently working with:
+
+- 🧑‍💻 Go, TypeScript (Node/React/Next/React Native), PostgreSQL, PHP (Laravel).
 
 <!--
 **aleksbeer/aleksbeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
