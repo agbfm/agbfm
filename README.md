@@ -1,3 +1,3 @@
 ### Kia ora 🤙
 
-I'm a NZ-based dev, with an insatiable passion for technology.
+I'm a software engineer based in Aotearoa, with an insatiable passion for technology.
