@@ -4,4 +4,10 @@ I'm a software engineer based in [Aotearoa](https://en.wikipedia.org/wiki/Aotear
 
 ---
 
-**Currently:** Engineering Team Lead @ [SafeStack](https://safestack.io) 🧑‍💻
+#### **> sitrep**
+
+🐕 Owner & CTO @ [Barkers](https://barkers.software)
+
+👨‍💻 Engineering Team Lead @ [SafeStack](https://safestack.io)
+
+🥼 Tinkering with all things self-hosted & FOSS.
