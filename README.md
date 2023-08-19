@@ -4,4 +4,4 @@ I'm a software engineer based in [Aotearoa](https://en.wikipedia.org/wiki/Aotear
 
 ---
 
-# Currently Engineering Team Lead @ [SafeStack](https://safestack.io) 🧑‍💻
+## Currently Engineering Team Lead @ [SafeStack](https://safestack.io) 🧑‍💻
