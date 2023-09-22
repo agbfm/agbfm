@@ -2,7 +2,7 @@
 
 I'm a software engineer based in [Aotearoa](https://en.wikipedia.org/wiki/Aotearoa), with a passion for technology.
 
-#### **> sitrep**
+**> sitrep**
 
 🐕 Owner & CTO @ [Barkers](https://barkers.software)
 
