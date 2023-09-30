@@ -6,7 +6,7 @@ I'm a software engineer based in [Aotearoa](https://en.wikipedia.org/wiki/Aotear
 
 👨‍💻 Engineering Team Lead @ [SafeStack](https://safestack.io)
 
-🐕 Owner & CTO @ [Barkers](https://barkers.software) (side hustle)
+🐕 Co-founder @ [Barkers](https://barkers.software) (side hustle)
 
 🥼 Tinkering with all things self-hosted & open-source in my [homelab](https://github.com/agbfm/batcave).
 
