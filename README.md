@@ -1,10 +1,10 @@
 # Kia ora, I'm Aleks 🤙
 
-I'm a software engineer based in [Aotearoa](https://en.wikipedia.org/wiki/Aotearoa), with a passion for technology.
+I'm a well-seasoned software engineer based in [Aotearoa](https://en.wikipedia.org/wiki/Aotearoa), with a passion for technology. Moving to Portugal in 2024 🇵🇹
 
 **> sitrep**
 
-👨‍💻 Engineering Team Lead @ [SafeStack](https://safestack.io)
+👨‍💻 Senior Full Stack Engineer @ [SafeStack](https://safestack.io)
 
 🐕 Co-founder @ [Barkers](https://barkers.software) (side hustle)
 
