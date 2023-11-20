@@ -1,6 +1,6 @@
 # Kia ora, I'm Aleks 🤙
 
-I'm a well-seasoned software engineer based in [Aotearoa](https://en.wikipedia.org/wiki/Aotearoa), with a passion for technology.
+I'm a well-seasoned software engineer from [Aotearoa](https://en.wikipedia.org/wiki/Aotearoa), with a passion for all things technology.
 
 **> sitrep**
 
