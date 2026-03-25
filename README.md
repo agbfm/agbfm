@@ -4,6 +4,6 @@ I'm a seasoned software engineer from [Aotearoa](https://en.wikipedia.org/wiki/A
 
 **> sitrep**
 
-💼 General Manager @ [NZ Filter Warehouse](https://www.nzfilterwarehouse.com/) (gaining management/operations experience in slight career deviation)
+💼 General Manager @ [NZ Filter Warehouse](https://www.nzfilterwarehouse.com/)
 
 🐕 Co-founder @ [Barkers](https://barkers.software) (side hustle)
